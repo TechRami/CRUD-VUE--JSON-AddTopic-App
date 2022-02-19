@@ -1,0 +1,22 @@
+{
+  "projects": [
+    {
+      "title": "JavaScript Topic",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, necessitatibus itaque dolor quo repellat aut, reiciendis maxime, eaque alias vitae veniam est voluptates officia modi aliquid illo ullam blanditiis totam impedit! Accusantium possimus ad magnam, eveniet est totam animi deleniti illum quod ipsa praesentium eum maxime unde vel laborum voluptas!",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "JavaScript tips and tricks!",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, necessitatibus itaque dolor quo repellat aut, reiciendis maxime, eaque alias vitae veniam est voluptates officia modi aliquid illo ullam blanditiis totam impedit! Accusantium possimus ad magnam, eveniet est totam animi deleniti illum quod ipsa praesentium eum maxime unde vel laborum voluptas!",
+      "complete": true,
+      "id": 4
+    },
+    {
+      "title": "Random Python Topic",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, necessitatibus itaque dolor quo repellat aut, reiciendis maxime, eaque alias vitae veniam est voluptates officia modi aliquid illo ullam blanditiis totam impedit! Accusantium possimus ad magnam, eveniet est totam animi deleniti illum quod ipsa praesentium eum maxime unde vel laborum voluptas!",
+      "complete": false,
+      "id": 5
+    }
+  ]
+}
