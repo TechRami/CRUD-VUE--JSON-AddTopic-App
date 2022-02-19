@@ -14,7 +14,10 @@ npm run serve
 ```
 npm run build
 ```
-### Make sure to run npx json-server --watch data/db.json to run the json server
+### Make sure to run the json server
+```
+npx json-server --watch data/db.json to run
+```
 
 
 ### Customize configuration
